@@ -1,6 +1,6 @@
 # 👽 Eliseu Santos
 
-###Seja bem-vindo ao meu perfil!
+**Seja bem-vindo!**
 
 > *“"Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke”*🎩🪄
 > 
@@ -116,7 +116,6 @@ Me tornar um desenvolvedor Front-End, para criar interfaces modernas e funcionai
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseufesantos&layout=compact&theme=radical)
 
 <br/>
----
 
 ## 🧠 Experiências e Projetos
 
