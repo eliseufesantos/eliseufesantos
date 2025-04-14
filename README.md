@@ -113,6 +113,7 @@ Me tornar um desenvolvedor Front-End, para criar interfaces modernas e funcionai
 
 ### 📊 Estatísticas
 
+
 <p>
   <img 
     align="left" 
@@ -126,8 +127,8 @@ Me tornar um desenvolvedor Front-End, para criar interfaces modernas e funcionai
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliseufesantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-</p>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliseufesantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
+</p>
 
