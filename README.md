@@ -8,14 +8,14 @@ Oi, eu sou o Eliseu. Sou um estudante apaixonado por **tecnologia, neurociência
 
 Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 
-## 🎯 Objetvo
+### 🎯 Objetvo
 Me tornar um desenvolvedor Front-End, para criar interfaces modernas e funcionais. Atualmente cursando **Engenharia de Software na FIAP** e buscando oportunidades para crescer profissionalmente na área de desenvolvimento web.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliseu-fesantos/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliseu.fesantos@gmail.com)
 
 ---
-## 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="HTML"
