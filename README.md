@@ -107,7 +107,7 @@ Me tornar um desenvolvedor Front-End, para criar interfaces modernas e funcionai
 />
 
 <br/>
----
+-
 
 ## 📊 Estatísticas GitHub
 
@@ -129,8 +129,8 @@ Me tornar um desenvolvedor Front-End, para criar interfaces modernas e funcionai
 
 </p>
 
-
-
+<br/>
+-
 ## 🧠 Experiências e Projetos
 
 Estudo de Engenharia de Software na FIAP. Tenho experiência com infraestrutura de TI, monitoria acadêmica e desenvolvimento com foco em **HTML, CSS, JavaScript e React**. Já participei de projetos como um **Fantasy Game voltado à Fórmula E**, em parceria com a Tech Mahindra, a construção de um **aplcativo de manutenção preditva de carros com OBDII**, para a Raízen, dona dos postos da Shell, e atualmente estou projetando um **SaaS para ajudar empreendedores a criar dashboards com BI**, de maneira simpficada, para impulsionar seus negócios. 
