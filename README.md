@@ -119,7 +119,7 @@ Me tornar um desenvolvedor Front-End, para criar interfaces modernas e funcionai
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 7px;" 
     src="https://github-readme-stats.vercel.app/api?username=eliseufesantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
