@@ -45,6 +45,10 @@ Me tornar um desenvolvedor Front-End, para criar interfaces modernas e funcionai
 ---
 
 ## 🐍 Snake Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliseufesantos/eliseufesantos/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliseufesantos/eliseufesantos/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/eliseufesantos/eliseufesantos/output/github-snake.svg" />
+</picture>
 
-![snake gif](https://github.com/eliseufesantos/eliseufesantos/blob/output/github-contribution-grid-snake.svg)
 
