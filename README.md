@@ -15,7 +15,7 @@ Me tornar um desenvolvedor Front-End, para criar interfaces modernas e funcionai
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliseu.fesantos@gmail.com)
 
 ---
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="HTML"
@@ -109,7 +109,7 @@ Me tornar um desenvolvedor Front-End, para criar interfaces modernas e funcionai
 <br/>
 <br/>
 
-## 📊 Estatísticas GitHub
+### 📊 Estatísticas
 
 <p>
   <img 
