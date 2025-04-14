@@ -107,6 +107,7 @@ Me tornar um desenvolvedor Front-End, para criar interfaces modernas e funcionai
 />
 
 <br/>
+<br/>
 
 ## 📊 Estatísticas GitHub
 
@@ -128,6 +129,8 @@ Me tornar um desenvolvedor Front-End, para criar interfaces modernas e funcionai
 
 </p>
 
+
+<br/>
 <br/>
 
 ## 🧠 Experiências e Projetos
