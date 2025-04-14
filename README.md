@@ -2,7 +2,7 @@
 
 **Seja bem-vindo ao meu perfil!**
 
-> “"Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke”🎩🪄
+> "Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke🎩🪄
 
 Oi, eu sou o Eliseu. Sou um estudante apaixonado por **tecnologia, neurociência e economia**. Acredito que, ao combinar esses conhecimentos, é possível construir um mundo mais mágico, encantador e humano, onde a inovação vai além da lógica — tocando também a mente e o coração das pessoas.
 
@@ -110,11 +110,11 @@ Me tornar um desenvolvedor Front-End, para criar interfaces modernas e funcionai
 ---
 
 ## 🚀 Estatísticas GitHub
-
+<p>
 ![Eliseu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliseufesantos&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseufesantos&layout=compact&theme=radical)
-
+</p>
 <br/>
 
 ## 🧠 Experiências e Projetos
