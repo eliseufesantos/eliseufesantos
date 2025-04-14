@@ -1,9 +1,9 @@
 # 👽 Eliseu Santos
 
-**Seja bem-vindo!**
+**Seja bem-vindo ao meu perfil!**
 
 > *“"Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke”*🎩🪄
-> 
+
 Oi, eu sou o Eliseu. Sou um estudante apaixonado por **tecnologia, neurociência e economia**. Acredito que, ao combinar esses conhecimentos, é possível construir um mundo mais mágico, encantador e humano, onde a inovação vai além da lógica — tocando também a mente e o coração das pessoas.
 
 Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
