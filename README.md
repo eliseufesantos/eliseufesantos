@@ -23,11 +23,11 @@ Sou Eliseu, estudante de Engenharia de Software na FIAP. Tenho experiência com 
 
 ## 🚀 Estatísticas GitHub
 
-![Eliseu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliseu-fesantos&show_icons=true&theme=radical)
+![Eliseu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliseufesantos&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseu-fesantos&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseufesantos&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=eliseu-fesantos&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=eliseufesantos&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
