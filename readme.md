@@ -1,4 +1,4 @@
-# 👽 Eliseu Santos
+z# 👽 Eliseu Santos
 **Seja bem-vindo ao meu perfil!**
 > "Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke 🎩🪄
 Oi, eu sou o Eliseu, um estudante apaixonado por **tecnologia, neurociência e economia**. Acredito que, ao combinar esses conhecimentos, é possível construir um mundo mais mágico, encantador e humano, onde a inovação vai além da lógica — tocando também a mente e o coração das pessoas.
@@ -22,9 +22,9 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 <br/>
 ---
 ## 📊 Estatísticas
-| (https://github-readme-stats.vercel.app/api?username=eliseufesantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | (https://github-readme-stats.vercel.app/api/top-langs/?username=eliseufesantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| ![Eliseu GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliseufesantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseufesantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
 | --- | --- |
----
+
 
 ## 🐍 Snake Game
 ![snake gif](https://raw.githubusercontent.com/eliseufesantos/eliseufesantos/output/github-contribution-grid-snake-dark.svg)
