@@ -27,4 +27,5 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 
 
 ## 🐍 Snake Game
-![snake gif](https://raw.githubusercontent.com/eliseufesantos/eliseufesantos/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/eliseufesantos/eliseufesantos/blob/output/github-snake-dark.svg?palette=github-dark)
+
