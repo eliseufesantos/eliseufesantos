@@ -1,4 +1,4 @@
-z# 👽 Eliseu Santos
+# 👽 Eliseu Santos
 **Seja bem-vindo ao meu perfil!**
 > "Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke 🎩🪄
 Oi, eu sou o Eliseu, um estudante apaixonado por **tecnologia, neurociência e economia**. Acredito que, ao combinar esses conhecimentos, é possível construir um mundo mais mágico, encantador e humano, onde a inovação vai além da lógica — tocando também a mente e o coração das pessoas.
@@ -20,8 +20,8 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <br/>
 <br/>
----
 
+---
 ## 📊 Estatísticas
 | ![Eliseu GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliseufesantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseufesantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
 | --- | --- |
